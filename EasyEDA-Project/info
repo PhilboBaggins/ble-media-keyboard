@@ -1,0 +1,435 @@
+{
+  "uuid": "3316a277bc99da6427dd512338f351ee",
+  "path": "Offline/BLE%20media%20keyboard",
+  "name": "BLE media keyboard",
+  "content": "",
+  "created_at": "2022-11-10 02:45:06",
+  "updated_at": "2022-12-01 20:40:52",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "c653dae561d13975a37921c50cfcd7de",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ebf87b771fca429b810052cffdd48e69": 1,
+        "24eeb2ceca08480b92b847b6a310acda": 5,
+        "ae358e79458b4a25a34fb67089bfb40f": 14,
+        "8263c70ec7474b0f894f3f6148cd4312": 1,
+        "ed9eb2faffb34286820a54a14e9e9e24": 5,
+        "3adac0687b184795ac82a88d7030b579": 2,
+        "5676554bd4914d0989291bb3d92a3b97": 1,
+        "7ec6184175344a2094a139dbc983bb03": 1,
+        "59ff05ca9e6b435b897ce7d659c09a85": 1,
+        "7f7e25e4080c4d5ea6b7eb27c71d581e": 2,
+        "bb009484ef804a24ac5d18c54b249586": 2,
+        "a1a917159bf0428cb774136ee5fb1a08": 1,
+        "9c73417b35734dd090e078b3dbd26197": 1,
+        "67729dd654494bc612a225cd7cf300d1": 2,
+        "89026c0e23ca49dcb85d26a1d0805b33": 1,
+        "7f42801814b64036aa7f6645874986fe": 1,
+        "f481acb64f144f3babc16e5912261e84": 1,
+        "a45d6e9aa85e4435ad7a6c356d75f084": 1,
+        "d7416ec9a8bc42b2be6f2799e733b2cd": 1,
+        "6dac74d3dbfa4457b8d78221ef21e0f6": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1u",
+          1,
+          "C0603",
+          "C1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "f187d3c25f9f43a29b67d3cfa364ee78",
+            "uuid": "24eeb2ceca08480b92b847b6a310acda"
+          }
+        ],
+        [
+          "0.1u",
+          3,
+          "C0603",
+          "C2,C3,C11",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "f187d3c25f9f43a29b67d3cfa364ee78",
+            "uuid": "24eeb2ceca08480b92b847b6a310acda"
+          }
+        ],
+        [
+          "10u",
+          1,
+          "C0805",
+          "C4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "2ee8eb13a0124a108e622ce40c0c25a8",
+            "uuid": "89026c0e23ca49dcb85d26a1d0805b33"
+          }
+        ],
+        [
+          "22u",
+          1,
+          "C0603",
+          "C10",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "f187d3c25f9f43a29b67d3cfa364ee78",
+            "uuid": "24eeb2ceca08480b92b847b6a310acda"
+          }
+        ],
+        [
+          "MBR120VLSFT1G",
+          1,
+          "SOD-123F_L2.8-W1.8-LS3.7-RD",
+          "D1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C223608",
+            "BOM_Manufacturer": "ON Semicon",
+            "BOM_Manufacturer Part": "MBR120VLSFT1G",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "e8e78627020b4795961cd17fb8b42b10",
+            "uuid": "59ff05ca9e6b435b897ce7d659c09a85"
+          }
+        ],
+        [
+          "JST_2PIN",
+          1,
+          "JST-PH-2-THM-RA",
+          "J1",
+          {
+            "BOM_Manufacturer Part": "S2B-PH-K-S(LF)(SN)",
+            "BOM_Manufacturer": "JST Sales America Inc.",
+            "BOM_Supplier Part": "455-1719-ND",
+            "BOM_Supplier": "Digi-Key",
+            "puuid": "3f3820b0f05f4edb83db162df80dee0a",
+            "uuid": "8263c70ec7474b0f894f3f6148cd4312"
+          }
+        ],
+        [
+          "2.2uH",
+          1,
+          "IND-SMD_L4.9-W4.9_NRS50XX",
+          "L1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C222917",
+            "BOM_Manufacturer": "TAIYO YUDEN(太诱)",
+            "BOM_Manufacturer Part": "NRS5020T2R2NMGJ",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "eded824b706e40d480c5676ce0453d4f",
+            "uuid": "a45d6e9aa85e4435ad7a6c356d75f084"
+          }
+        ],
+        [
+          "LED-0805_R",
+          2,
+          "LED0805_RED",
+          "LED1,LED2",
+          {
+            "BOM_Manufacturer": "EVERLIGHT(台湾亿光)",
+            "BOM_Manufacturer Part": "17-21SURC/S530-A3/TR8",
+            "BOM_Supplier Part": "C72037",
+            "BOM_Supplier": "",
+            "puuid": "090b645653374cf992fd93fb559e27d2",
+            "uuid": "3adac0687b184795ac82a88d7030b579"
+          }
+        ],
+        [
+          "DMG2305UX",
+          1,
+          "SOT-23-3_L2.9-W1.3-P0.95-LS2.4-BR-1",
+          "Q1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C2940629",
+            "BOM_Manufacturer": "TECH PUBLIC(台舟)",
+            "BOM_Manufacturer Part": "DMG2305UX",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "48f726f118674c1c98ad35c23ffe8764",
+            "uuid": "7ec6184175344a2094a139dbc983bb03"
+          }
+        ],
+        [
+          "SS8050-G",
+          2,
+          "SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR",
+          "Q2,Q3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "CJ",
+            "BOM_Manufacturer Part": "SS8050-G",
+            "BOM_Supplier Part": "C164886",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "8685f30498eb4672a60390cb8e921e7a",
+            "uuid": "7f7e25e4080c4d5ea6b7eb27c71d581e"
+          }
+        ],
+        [
+          "1k",
+          2,
+          "R0805",
+          "R1,R18",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b60f399a7a7e41848b2be1eb49c79141",
+            "uuid": "ed9eb2faffb34286820a54a14e9e9e24"
+          }
+        ],
+        [
+          "100k",
+          2,
+          "R0805",
+          "R15,R23",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b60f399a7a7e41848b2be1eb49c79141",
+            "uuid": "ed9eb2faffb34286820a54a14e9e9e24"
+          }
+        ],
+        [
+          "10k",
+          2,
+          "R0603",
+          "R16,R17",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "1bf59dff03ec4233aa077dc7cf0e92a1",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "2.2K",
+          1,
+          "R0805",
+          "R19",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b60f399a7a7e41848b2be1eb49c79141",
+            "uuid": "ed9eb2faffb34286820a54a14e9e9e24"
+          }
+        ],
+        [
+          "100kΩ",
+          1,
+          "R0805",
+          "R20",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C149504",
+            "BOM_Manufacturer": "UNI-ROYAL(厚声)",
+            "BOM_Manufacturer Part": "0805W8F1003T5E",
+            "BOM_JLCPCB Part Class": "Basic Part",
+            "puuid": "b60f399a7a7e41848b2be1eb49c79141",
+            "uuid": "9c73417b35734dd090e078b3dbd26197"
+          }
+        ],
+        [
+          "1MΩ",
+          2,
+          "R0805",
+          "R21,R22",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "UNI-ROYAL(厚声)",
+            "BOM_Manufacturer Part": "0805W8F1004T5E",
+            "BOM_Supplier Part": "C17514",
+            "BOM_JLCPCB Part Class": "Basic Part",
+            "puuid": "b60f399a7a7e41848b2be1eb49c79141",
+            "uuid": "67729dd654494bc612a225cd7cf300d1"
+          }
+        ],
+        [
+          "D6R90F1LFS",
+          14,
+          "SW-TH_D6R90F1LFS",
+          "SW1,SW2,SW3,SW4,SW5,SW6,SW7,SW8,SW9,SW10,SW11,SW12,SW13,SW14",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C221611",
+            "BOM_Manufacturer": "C&K",
+            "BOM_Manufacturer Part": "D6R90F1LFS",
+            "puuid": "8620e02e68af4981bee254d32b96022f",
+            "uuid": "ae358e79458b4a25a34fb67089bfb40f"
+          }
+        ],
+        [
+          "100SP1T1B4M2QE",
+          1,
+          "100SP1T1B4M2QE",
+          "SW15",
+          {
+            "BOM_Manufacturer": "E-Switch",
+            "BOM_Manufacturer Part": "100SP1T1B4M2QE",
+            "BOM_Supplier": "Digi-Key",
+            "BOM_Supplier Part": "EG2355-ND",
+            "puuid": "f90c07b850ee4f8695bdf9501272ba8d",
+            "uuid": "7f42801814b64036aa7f6645874986fe"
+          }
+        ],
+        [
+          "K3-2235D-F1",
+          1,
+          "SW-TH_K3-2235D-F1",
+          "SW16",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C189615",
+            "BOM_Manufacturer": "Rectangular Connectors - Contacts",
+            "BOM_Manufacturer Part": "K3-2235D-F1",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "0b722086a0fc4dcf83937965ae979c02",
+            "uuid": "f481acb64f144f3babc16e5912261e84"
+          }
+        ],
+        [
+          "ESP32-WROVER-IE",
+          1,
+          "WIFI-SMD_ESP32-WROVER-E",
+          "U1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C967024",
+            "BOM_Manufacturer": "Espressif Systems",
+            "BOM_Manufacturer Part": "ESP32-WROVER-IE",
+            "puuid": "c3e8d3dd34de43e48b49712337278f28",
+            "uuid": "6dac74d3dbfa4457b8d78221ef21e0f6"
+          }
+        ],
+        [
+          "RT6150BGQW",
+          1,
+          "WSON-10_L2.5-W2.5-P0.50-BL-EP",
+          "U2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "RICHTEK",
+            "BOM_Manufacturer Part": "RT6150BGQW",
+            "BOM_Supplier Part": "C147972",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "56bf83fd0724465096a84ae99d51d247",
+            "uuid": "d7416ec9a8bc42b2be6f2799e733b2cd"
+          }
+        ],
+        [
+          "MCP73831T-2ACI/OT",
+          1,
+          "SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR",
+          "U3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C424093",
+            "BOM_Manufacturer": "Microchip Tech",
+            "BOM_Manufacturer Part": "MCP73831T-2ACI/OT",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "e7f085e4f71344109c090040716070ab",
+            "uuid": "5676554bd4914d0989291bb3d92a3b97"
+          }
+        ],
+        [
+          "CP2102-GMR",
+          1,
+          "WQFN-28_L5.0-W5.0-P0.50-BL-EP3.2",
+          "U5",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "SILICON LABS(芯科)",
+            "BOM_Manufacturer Part": "CP2102-GMR",
+            "BOM_Supplier Part": "C6568",
+            "BOM_JLCPCB Part Class": "Basic Part",
+            "puuid": "cfd5203a63ba4bd4b32f1d0bee0a79a2",
+            "uuid": "a1a917159bf0428cb774136ee5fb1a08"
+          }
+        ],
+        [
+          "MICROXNJ",
+          1,
+          "MICRO-USB-SMD_MICROXNJ",
+          "USB1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C404969",
+            "BOM_Manufacturer": "SHOU HAN",
+            "BOM_Manufacturer Part": "MicroXNJ",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "53bbe01a5e5c4958ba8b22d279d0d9e5",
+            "uuid": "ebf87b771fca429b810052cffdd48e69"
+          }
+        ]
+      ],
+      "updateTime": 1669887157,
+      "createTime": 1668008707,
+      "histories": [],
+      "created_at": "2022-11-10 02:45:07",
+      "updated_at": "2022-12-01 20:32:37"
+    },
+    {
+      "uuid": "213bdeff99221e42583beb3c3cd9c961",
+      "puuid": "3316a277bc99da6427dd512338f351ee",
+      "title": "PCB_BLE media keyboard",
+      "filename": "PCB_BLE media keyboard.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "56bf83fd0724465096a84ae99d51d247": 1,
+        "b60f399a7a7e41848b2be1eb49c79141": 8,
+        "eded824b706e40d480c5676ce0453d4f": 1,
+        "2ee8eb13a0124a108e622ce40c0c25a8": 1,
+        "090b645653374cf992fd93fb559e27d2": 2,
+        "cfd5203a63ba4bd4b32f1d0bee0a79a2": 1,
+        "f187d3c25f9f43a29b67d3cfa364ee78": 5,
+        "e8e78627020b4795961cd17fb8b42b10": 1,
+        "48f726f118674c1c98ad35c23ffe8764": 1,
+        "8685f30498eb4672a60390cb8e921e7a": 2,
+        "e7f085e4f71344109c090040716070ab": 1,
+        "1bf59dff03ec4233aa077dc7cf0e92a1": 2,
+        "c3e8d3dd34de43e48b49712337278f28": 1,
+        "3f3820b0f05f4edb83db162df80dee0a": 1,
+        "f90c07b850ee4f8695bdf9501272ba8d": 1,
+        "0b722086a0fc4dcf83937965ae979c02": 1,
+        "8620e02e68af4981bee254d32b96022f": 14,
+        "53bbe01a5e5c4958ba8b22d279d0d9e5": 1
+      },
+      "BOM": [],
+      "updateTime": 1669887652,
+      "createTime": 1668010033,
+      "histories": [],
+      "created_at": "2022-11-10 03:07:13",
+      "updated_at": "2022-12-01 20:40:52"
+    }
+  ],
+  "sort": [],
+  "title": "BLE media keyboard",
+  "foldername": "BLE media keyboard",
+  "schfilename": "BLE media keyboard.json",
+  "schfilemtime": 1669887157268
+}
